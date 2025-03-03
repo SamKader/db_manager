@@ -22,3 +22,6 @@ Un module Python simple et sécurisé pour gérer une base de données SQLite av
    ```bash
    git clone https://github.com/SamKader/db_manager.git
    cd db_manager
+2.  **installer avec pip**:
+   ```bash
+   pip install git+https://github.com/SamKader/db_manager.git
